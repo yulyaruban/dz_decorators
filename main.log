@@ -1,0 +1,30 @@
+2023-08-03 16:42:29.418140
+hello_world
+args=(),kwargs={}
+Hello World
+
+2023-08-03 16:42:29.418433
+summator
+args=(2, 2),kwargs={}
+4
+
+2023-08-03 16:42:29.418681
+div
+args=(6, 2),kwargs={}
+3.0
+
+2023-08-03 16:42:29.418830
+summator
+args=(4.3,),kwargs={'b': 2.2}
+6.5
+
+2023-08-03 16:42:29.418930
+summator
+args=(),kwargs={'a': 0, 'b': 0}
+0
+
+2023-08-03 16:54:22.041537
+flat_generator
+args=([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],),kwargs={}
+<generator object flat_generator at 0x101fede40>
+
